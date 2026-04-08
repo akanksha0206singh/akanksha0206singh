@@ -28,10 +28,6 @@ Business Analytics,
 Database Analytics,
 Business Process Analysis,
 
-## Contact
-
-## Connect with Me
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akanksha%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akankshasingha)
