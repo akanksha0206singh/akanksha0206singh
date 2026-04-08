@@ -18,8 +18,8 @@ Jira
 
 ## Projects
 
-Hotel Management SQL Analytics Project
-(A SQL-based database analytics project focused on analyzing hotel operations using relational database design, analytical queries, and automation triggers).
+Hotel Management SQL Analytics Project:
+A SQL-based database analytics project focused on analyzing hotel operations using relational database design, analytical queries, and automation triggers.
 
 ## Areas of Interest
 
