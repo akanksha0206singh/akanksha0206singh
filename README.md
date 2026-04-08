@@ -32,6 +32,8 @@ Business Process Analysis,
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akanksha%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+## Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-akanksha@email.com-red?style=for-the-badge&logo=gmail)](mailto:akanksha@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akanksha%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akankshasingha)
+
+[![Email](https://img.shields.io/badge/Email-akanksha0206singh%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akanksha0206singh@gmail.com)
