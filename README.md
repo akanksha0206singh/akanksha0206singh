@@ -30,5 +30,8 @@ Business Process Analysis,
 
 ## Contact
 
-LinkedIn: (https://www.linkedin.com/in/akankshasingha/)
-Email: akanksha0206singh@gmail.com
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akanksha%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-akanksha@email.com-red?style=for-the-badge&logo=gmail)](mailto:akanksha@email.com)
